@@ -9,5 +9,3 @@
         </td>
     <tr>
 </table>
-
- <img src="https://activity-graph.herokuapp.com/graph?username=Zhang-RenWen&&theme=vue" width="100%"/>
